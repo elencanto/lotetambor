@@ -11,8 +11,8 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
-    color: #2a2a38ff;
+    font-size: 55px;
+    color: rgb(8, 100, 106);
 }
 
 h4 {
@@ -21,7 +21,7 @@ h4 {
 
 .descripcion {
 padding: 37px;
-background-color: #ffffffff;
+background-color: #ffffff;
 text-align: center; 
 }
 
@@ -59,7 +59,7 @@ p {
   
   /* Estilos de la página */
   body {
-    background-color: #f0efef;
+    background-color: #ffffff;
     color: #333;
   }
   
@@ -117,7 +117,7 @@ p {
   position: absolute; 
   top: 20px; 
   right: 30px; 
-  padding: 15px 20px; 
+  padding: 30px; 
   background-color: rgba(0, 0, 0, 0.8); 
   color: #fff;
   font-weight: bold;
@@ -125,7 +125,8 @@ p {
   border-radius: 10px; 
   cursor: pointer;
   z-index: 1010; 
-  font-size: 18px;
+  font-size: 40px;
+  text-align: center;
 }
   
   /* Estilos responsivos */
