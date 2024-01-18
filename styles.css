@@ -84,7 +84,7 @@ p {
     height: 270px;
     margin: 10px;
     border-radius: 10px;
-    border: rgba(12, 109, 151, 0.746) solid 4px;
+    border: #89befa solid 3px;
     cursor: pointer;
     transition: transform 0.3s ease;
   }
