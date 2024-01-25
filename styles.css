@@ -41,7 +41,7 @@ p {
     text-decoration: none;
     border-radius: 7px;
     transition: background-color 0.3s ease;
-    margin-top: 20px; 
+    margin-top: 40px; 
   }
   
   .google-maps-button:hover {
@@ -70,6 +70,14 @@ p {
     text-align: center;
     background-color: #f0efef;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .precio {
+    font-size: xxx-large;
+    font-weight: bolder;
+    color: rgb(2, 175, 2);
+    margin-bottom: 1px;
+    margin-top: 1px;
   }
   
   .gallery {
